@@ -1,4 +1,4 @@
-# Q-division
+# Q Division
 
 WE ARE INNOVATION ENTREPRENEURS
 
