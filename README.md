@@ -19,9 +19,7 @@ hello@qdivision.co.za
 
 ##### Address
 
-97 Durham Ave
-Salt river
-7925
+97 Durham Ave, Salt River, 7925
 
 ##### Links
 
