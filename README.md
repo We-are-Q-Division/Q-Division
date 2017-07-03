@@ -26,4 +26,4 @@ Salt river
 ##### Links
 
 - [Qdivison.co.za](http://qdivision.co.za/)
-- [Medium] (https://medium.com/qdivision)
+- [Medium](https://medium.com/qdivision)
