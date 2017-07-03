@@ -32,6 +32,7 @@ Depending on the type of person you are, interviews can be daunting, not only fo
 - #### Building the consideration set
     Understand what other solutions were they looking at in order to solve their problem? What other solutions did they try? They might not be what you imagine – think beyond the obvious
 - #### Be curious about emotion
+    This can be tricky and take a long time to master. It also doesn't help that most of the time people remember the version of the story that makes them look good. But try to find out people they spoke to, their worries / anxieties about the product.
 
 But most importantly
 > ### Be active, engaged and positive. People are more likely to open up and reveal more if there’s no judgement felt.
