@@ -36,3 +36,42 @@ Depending on the type of person you are, interviews can be daunting, not only fo
 
 But most importantly
 > ### Be active, engaged and positive. People are more likely to open up and reveal more if there’s no judgement felt.
+
+## Strategy 
+
+Now that we’ve found all our awesome insights from the people we are designing for, we fill out our Lean UX Canvas. This part of the process can actually take quite a while and a lot of thinking goes into filling out the various areas. 
+
+The Lean UX Canvas helps to identify and solidify the business problem to solve as opposed to a solution to implement. Assumptions are then understood around the business problem which become our hypotheses to test with our users. We also identify our key experiences that will really make the solution come to life. Jobs to be Done is then also included to ensure we design for a specific outcome or situation rather than looking to the solution. 
+
+The canvas then becomes the centre of our project and we ensure that the entire team is able to access / see it at all times. 
+
+## Create
+
+Now it’s time to actually starting creating the solution to our problem. The way we approach things is to take our job stories from the Jobs to Be Done section and key experiences into a collaborative design process. 
+
+The collaborative design process works as follows:
+Get the team, either the full team or select few members, (remember that multidisciplinary teams have been proven to be more beneficial in solving problems) into a room for a design session. We recommend 2 – 4 hours depending on the problem you are trying to solve.  
+
+Each team member should have pen and paper for rapid prototyping.
+We then follow this format in a session:
+1.	Use your Lean UX canvas to get the team up to speed on the problem, key experiences and job stories. 
+2.	Choose a job story or key experience to design
+3.	Each member then generates ideas in isolation
+4.	Each member then presents their ideas to the team, who then critique the ideas
+5.	Members then iterate and refine their ideas based on the feedback from the team
+6.	The team then collectively generates ideas, pulling together the best ideas from each individual member
+7.	Style guide / design principles are then set
+
+Once this session is complete the team member/s responsible for creating the prototype then goes away and creates based on what the team has defined as the best solution/s. 
+
+Reviews and check ins are paramount to the project and can be scheduled or ad hoc depending on the stage and/or red flag of the project.
+
+## Testing
+This is crucial to ensure your team has designed for the user in mind and to understand whether your solution is solving the problem in the most intuitive manner. User testing can take on many forms. From our experience of products and solutions that we have built our, we do one on one testing with a user following software that allows us to record users facial expressions, voice and their movements within our solution. 
+
+Just like the initial research and interview phase, it’s very important for the user to feel as comfortable as possible and to make them understand that they are not being tested, but the product / solution itself. 
+
+We’ve defined our magic number for testing to be 6 people. This would surface 90% of your problems, and anything over that will give you drastically diminishing rate of returns, based on the binomial probability. 
+
+## Iterate
+Based on feedback from real users, refine what you have built to incorporate their feedback. 
