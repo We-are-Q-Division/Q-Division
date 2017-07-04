@@ -25,7 +25,7 @@ Divide a piece of paper into 4 quadrants and fill out the sections as follows
 3. Needs & goals
 4. Pain points
 
-> Template [here](link
+Template [here](https://github.com/ajbee7/Q-Division/blob/master/Proto-Persona.png)
 
 #### Key Insight 
 Definition of insight:
