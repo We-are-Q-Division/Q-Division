@@ -77,7 +77,7 @@ This is crucial to ensure your team has designed for the user in mind and to und
 
 Just like the initial research and interview phase, it’s very important for the user to feel as comfortable as possible and to make them understand that they are not being tested, but the product / solution itself. 
 
-We’ve defined our magic number for testing to be 6 people. This would surface 90% of your problems, and anything over that will give you drastically diminishing rate of returns, based on the binomial probability. 
+We’ve defined our magic number for testing to be 6 people. This number of people surfaces 90% of your problems, and anything over 6 will give you drastically diminishing rate of returns, based on the binomial probability. 
 
 ## Iterate
 Based on feedback from real users, refine what you have built to incorporate their feedback. 
