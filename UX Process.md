@@ -39,9 +39,9 @@ But most importantly
 
 ## Strategy 
 
-Now that we’ve found all our awesome insights from the people we are designing for, we fill out our Lean UX Canvas. This part of the process can actually take quite a while and a lot of thinking goes into filling out the various areas. 
+Now that we’ve found all our awesome insights from the people we are designing for, we fill out our [Lean UX Canvas](https://github.com/ajbee7/Q-Division/blob/master/Lean%20UX%20Canvas.md). This part of the process can actually take quite a while and a lot of thinking goes into filling out the various areas. 
 
-The Lean UX Canvas helps to identify and solidify the business problem to solve as opposed to a solution to implement. Assumptions are then understood around the business problem which become our hypotheses to test with our users. We also identify our key experiences that will really make the solution come to life. Jobs to be Done is then also included to ensure we design for a specific outcome or situation rather than looking to the solution. 
+The [Lean UX Canvas](https://github.com/ajbee7/Q-Division/blob/master/Lean%20UX%20Canvas.md) helps to identify and solidify the business problem to solve as opposed to a solution to implement. Assumptions are then understood around the business problem which become our hypotheses to test with our users. We also identify our key experiences that will really make the solution come to life. Jobs to be Done is then also included to ensure we design for a specific outcome or situation rather than looking to the solution. 
 
 The canvas then becomes the centre of our project and we ensure that the entire team is able to access / see it at all times. 
 
