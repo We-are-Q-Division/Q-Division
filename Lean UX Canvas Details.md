@@ -1,5 +1,7 @@
 # Filling out the lean UX Canvas
 
+![The Canvas png](https://github.com/ajbee7/Q-Division/blob/master/LeanUXCanvas.png)
+
 ### Burning problem
 Explain the burning problem we are trying to solve from a consumer and/or business point of view. This should always be done in plain speak and a single declarative sentences
 Things to remember:
