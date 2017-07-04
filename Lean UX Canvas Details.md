@@ -1,4 +1,4 @@
-# The lean UX Canvas
+# Filling out the lean UX Canvas
 
 #### Product vision 
 Thinking and doing become so much bigger with a compelling vision. Larry Page’s vision to digitize all the books in the world sounded insane, but once he started scanning books manually in his office and timing it with a metronome, he did the calculations and all of a sudden it seemed possible. 
