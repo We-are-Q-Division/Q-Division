@@ -39,11 +39,15 @@ But most importantly
 
 ## Strategy 
 
-Now that we’ve found all our awesome insights from the people we are designing for, we fill out our [Lean UX Canvas](https://github.com/ajbee7/Q-Division/blob/master/Lean%20UX%20Canvas.md). This part of the process can actually take quite a while and a lot of thinking goes into filling out the various areas. 
+Now that we’ve found all our awesome insights from the people we are designing for, we fill out our Lean UX Canvas. This part of the process can actually take quite a while and a lot of thinking goes into filling out the various areas. 
 
-The [Lean UX Canvas](https://github.com/ajbee7/Q-Division/blob/master/Lean%20UX%20Canvas.md) helps to identify and solidify the business problem to solve as opposed to a solution to implement. Assumptions are then understood around the business problem which become our hypotheses to test with our users. We also identify our key experiences that will really make the solution come to life. Jobs to be Done is then also included to ensure we design for a specific outcome or situation rather than looking to the solution. 
+The Lean UX Canvas helps to identify and solidify the business problem to solve as opposed to a solution to implement. Assumptions are then understood around the business problem which become our hypotheses to test with our users. We also identify our key experiences that will really make the solution come to life. Jobs to be Done is then also included to ensure we design for a specific outcome or situation rather than looking to the solution. 
 
 The canvas then becomes the centre of our project and we ensure that the entire team is able to access / see it at all times. 
+
+For more on how the the Lean UX Canvas works, [check this out.](https://github.com/ajbee7/Q-Division/blob/master/Lean%20UX%20Canvas.md)
+
+### Our Lean UX Canvas
 
 ![The Canvas](https://github.com/ajbee7/Q-Division/blob/master/LeanUXCanvas.png)
 
@@ -68,7 +72,7 @@ Once this session is complete the team member/s responsible for creating the pro
 
 Reviews and check ins are paramount to the project and can be scheduled or ad hoc depending on the stage and/or red flag of the project.
 
-## Testing
+## Test
 This is crucial to ensure your team has designed for the user in mind and to understand whether your solution is solving the problem in the most intuitive manner. User testing can take on many forms. From our experience of products and solutions that we have built our, we do one on one testing with a user following software that allows us to record users facial expressions, voice and their movements within our solution. 
 
 Just like the initial research and interview phase, it’s very important for the user to feel as comfortable as possible and to make them understand that they are not being tested, but the product / solution itself. 
