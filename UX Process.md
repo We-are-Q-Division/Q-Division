@@ -45,6 +45,8 @@ The [Lean UX Canvas](https://github.com/ajbee7/Q-Division/blob/master/Lean%20UX%
 
 The canvas then becomes the centre of our project and we ensure that the entire team is able to access / see it at all times. 
 
+[The Canvas](Q-Division/Canvas.pdf)
+
 ## Create
 
 Now it’s time to actually starting creating the solution to our problem. The way we approach things is to take our job stories from the Jobs to Be Done section and key experiences into a collaborative design process. 
