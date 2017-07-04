@@ -32,14 +32,22 @@ Definition of insight:
 <blockquote>
     <p>“A deep ‘truth’ about the customer based on their behaviour, experiences, beliefs, needs or desires, that is relevant to the task or issue and ‘rings bells’ with target people.”</p>
 </blockquote>
+
 Insight definition is not an easy task, so spend time thinking deeply about it, use your creativity and persistence to craft the best insight you can, as it forms the basis of our users. 
 Make sure your insight is targeted, true and fresh! 
+
 
 > #### Good insights fuel innovation
 
 ### Jobs to Be Done
 Your job story needs a struggling moment.
 Job stories allow us to understand context, motivation and emotions from a user's experience in order to create innovations based on human behaviour and people’s needs as opposed to tech or cool features as the outcome.
+
+###### Jobs to Be Done process:
+1. Start with the high level job
+2. Identify a smaller job or jobs which help resolve the high level job
+3. Observe how people solve the problem now 
+4. Come up with a job story, or job stories, that investigate the causality, anxieties, and motivations of what users do now
 
 More on Jobs to Be Done [here.](link
 
