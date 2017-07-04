@@ -45,7 +45,7 @@ The [Lean UX Canvas](https://github.com/ajbee7/Q-Division/blob/master/Lean%20UX%
 
 The canvas then becomes the centre of our project and we ensure that the entire team is able to access / see it at all times. 
 
-[The Canvas](https://github.com/ajbee7/Q-Division/blob/master/Canvas.pdf)
+![The Canvas](https://github.com/ajbee7/Q-Division/blob/master/Canvas.pdf)
 
 ## Create
 
