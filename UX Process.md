@@ -45,7 +45,7 @@ The Lean UX Canvas helps to identify and solidify the business problem to solve 
 
 The canvas then becomes the centre of our project and we ensure that the entire team is able to access / see it at all times. 
 
-For more on how the the Lean UX Canvas works, [check this out.](https://github.com/ajbee7/Q-Division/blob/master/Lean%20UX%20Canvas.md)
+For more on how the Lean UX Canvas works, [check this out.](https://github.com/ajbee7/Q-Division/blob/master/Lean%20UX%20Canvas.md)
 
 ### Our Lean UX Canvas
 
