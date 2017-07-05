@@ -11,12 +11,12 @@ It helps innovators understand that customers don’t buy products and services,
 
 ## How does it work?
 
-#### Define the high-level job to be done
+#### 1. Define the high-level job to be done
   Rather than looking just at what people buy, examine the needs that arise during their lives.  Sometimes the job is much broader than the product or service that is bought.
-#### Identify smaller jobs which help resolve the problem now
-#### Observe how people solve the problem now
-#### Come up with job stories that investigate causality, and motivation of what they do now. 
-#### Create a solution (usually in the form of a feature or UI change) which resolves that Job Story
+#### 2. Identify smaller jobs which help resolve the problem now
+#### 3. Observe how people solve the problem now
+#### 4. Come up with job stories that investigate causality, anxiety and motivation of what they do now 
+#### 5. Create a solution (usually in the form of a feature or UI change) which resolves that job story
 
 ## Creating job stories
 
