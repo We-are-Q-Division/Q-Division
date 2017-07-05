@@ -20,7 +20,7 @@ It helps innovators understand that customers don’t buy products and services,
 
 ## Creating job stories
 
-![Jobs stories](
+![Jobs stories](https://github.com/We-are-Q-Division/UX-Process/blob/master/JTBD.png)
 
 Situation
 - Why customers switched from another product
