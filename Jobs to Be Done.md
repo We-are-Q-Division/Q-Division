@@ -6,7 +6,7 @@ Based on Clayton Christensen’s Jobs to Be Done theory, the customer is the wro
 
 ## Why it's useful?
 
-If you understand the jobs your customers want done, you gain new market insights and create viable growth strategies
+If you understand the jobs your customers want done, you gain new market insights and create viable growth strategies.
 It helps innovators understand that customers don’t buy products and services, they hire various solutions at various times to get a ride array of jobs done. 
 
 ## How does it work?
