@@ -9,6 +9,7 @@ We find game-changing insights and transform ambitious concepts into innovative 
 - [Filling out the Lean UX Canvas](https://github.com/ajbee7/Q-Division/blob/master/Lean%20UX%20Canvas%20Details.md)
 - [The Lean UX Canvas Template](https://github.com/ajbee7/Q-Division/blob/master/LeanUXCanvas.png)
 - [Proto-persona Template](https://github.com/ajbee7/Q-Division/blob/master/Proto-Persona.png)
+- [Jobs to Be Done]
 
 ### Contact Details
 
