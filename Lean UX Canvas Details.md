@@ -62,7 +62,7 @@ After you think your idea has been cracked, list features and enhancement ideas 
 #### Key Experiences
 Define the 1 - 3 key experiences that will make the product sing. These should be focused on throughout the creation process.
 
-### hypothesis / Consumer Value Proposition
+### Hypothesis / Consumer Value Proposition
 Every concept starts as a big experiment, which is why we start with a hypothesis. Once we've created solution and tested it with users, our hypothesis then becomes our consumer value proposition as it has been validated based on concrete evidence from our users.
 
 ### Red Flags
